@@ -1,0 +1,7 @@
+# TorchTune UI Requirements
+PyQt5>=5.15.0
+matplotlib>=3.5.0
+numpy>=1.20.0
+torch>=2.0.0
+torchtune
+PyYAML>=6.0
